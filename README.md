@@ -23,8 +23,8 @@ Aqui será montada a arquitetura de todo o sistema do projeto Lets-Talk.
    #BANCO DE DADOS
    
    -Usuários
-   [ ] Cada e-mail poderá ser cadastrado somente uma vez.
+      [ ] Cada e-mail poderá ser cadastrado somente uma vez.
    
-   [ ] 
+      [ ] 
           
     
